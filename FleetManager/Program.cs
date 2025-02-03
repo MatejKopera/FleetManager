@@ -7,7 +7,7 @@ namespace FleetManager
 {
     internal class Program
     {
-        private const string _inputFile = "Data/sample.json";
+        private const string _inputFile = "Data/in.json";
         private const string _outputFile = "Data/out.json";
 
         static void Main(string[] args)
